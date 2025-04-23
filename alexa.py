@@ -5,7 +5,6 @@ import wikipedia
 import datetime
 import pyjokes
 import time
-import threading
 import signal
 import sys
 
