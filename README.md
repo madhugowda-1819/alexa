@@ -2,8 +2,8 @@
 📌 Project Overview
 This is a simple and beginner-friendly Python voice assistant inspired by Amazon Alexa. Built without multithreading, the assistant runs sequentially in a single loop and listens for user commands through the microphone. It's designed for those who want to understand the fundamentals of voice recognition and speech response using Python.
 
-🚀 Features
-Wake Word Detection: Listens for the keyword “Alexa” to activate command mode.
+🚀 Features Wake Word Detection: 
+Listens for the keyword “Alexa” to activate command mode.
 
 Voice Command Recognition: Converts spoken language into text using Google’s Speech Recognition.
 
@@ -19,8 +19,8 @@ Humor: Tells jokes using the pyjokes library.
 
 Exit Commands: Gracefully ends the session when the user says "bye", "stop", or "exit".
 
-🛠 Technologies Used
-Python: The core programming language for building the assistant.
+🛠 Technologies Used Python: 
+The core programming language for building the assistant.
 
 SpeechRecognition: For capturing and interpreting audio commands.
 
